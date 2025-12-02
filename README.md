@@ -10,7 +10,7 @@ All data is legally compliant, with no sensitive personal information included. 
 
 What’s Included
 
-Sample Dataset: ~500 lines of anonymized telemetry data per domain, with hashed identifiers.
+Sample Dataset: ~100 lines of anonymized telemetry data per domain, with hashed identifiers.
 
 Scan Metadata: Timing, scan rate, and exposed service types (e.g., SSH detection) for benchmarking.
 
