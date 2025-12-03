@@ -87,7 +87,6 @@ Contact Infomation:
 
 signal: https://signal.me/#eu/rYqQmxPpIyI_DH2SMUPdXkyRF1g3GDRE00gDwPm3C7OTzHLb-UpBZJaYPGZ-fHiu
 
-email: cgasellingsevices@gmail.com
 
 First contact get free 100 top lines of data as samples, this offer end at the end of the december 2025!! 
 
@@ -117,6 +116,6 @@ Contact: Signal interest via email or GitHub DM for full dataset samples or enga
 
 No personal data included.
 
-Only public, legally scannable infrastructure is analyzed.
+Only public, legally scannable infrastructure is analyzed, all hasded and salted. 
 
 Data is provided hashed and redacted to comply with privacy and security regulations.
