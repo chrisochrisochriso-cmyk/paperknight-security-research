@@ -1,7 +1,7 @@
 🛡️ Paperknight Security Research — TIDS Scanner & Threat Data
 
 TIDS — Threat Intelligence Data Scanner v3.0
-Attack Surface + RCE + SSH + ML-Ready Telemetry
+Attack Surface + RCE + SSH + ML-Ready Telemetry More MODs coming soon. 
 
 🚀 Overview
 
@@ -69,13 +69,24 @@ Coinbase (Top 10)
 {"ts":"2025-12-02T14:52:11Z","type":"scan_result","domain":"07eb8d240192865633f25e62cd00e92a","takeover":false,"rce":false,"ssh_exposed":false,"confidence":0,"dns_time_ms":0,"http_time_ms":5000,"https_time_ms":42,"ssh_time_ms":0}
 {"ts":"2025-12-02T14:52:11Z","type":"scan_result","domain":"87257656e3e0004adb12959404194823","takeover":false,"rce":false,"ssh_exposed":false,"confidence":0,"dns_time_ms":0,"http_time_ms":5005,"https_time_ms":26,"ssh_time_ms":0}
 
-Note: Only 10 samples per dataset are shown. Full datasets are available under retainer agreement and 100 free sample just contact my signal link,  (https://signal.me/#eu/rYqQmxPpIyI_DH2SMUPdXkyRF1g3GDRE00gDwPm3C7OTzHLb-UpBZJaYPGZ-fHiu)
+Note: Only 10 samples per dataset are shown. Full datasets are available under retainer agreement and  free scanner/ live demo 6 spaces left next week.  just contact my signal link,  (https://signal.me/#eu/rYqQmxPpIyI_DH2SMUPdXkyRF1g3GDRE00gDwPm3C7OTzHLb-UpBZJaYPGZ-fHiu)
 
 💰 Data Offering !!
 
 TIDS generates high-fidelity threat telemetry that is ready to feed AI pipelines and enterprise dashboards.
 
-we are open to :
+🌐 Web App / Browser Access — Coming Soon
+A browser-based version of TIDS is under development. Soon, users will be able to:
+
+Run limited free scans (up to 5 per account)
+
+Receive ML-ready scan reports directly
+
+Explore sanitized threat telemetry without installing anything
+
+All scans are fully passive, and Paperknight retains rights to the raw telemetry. Early access and sample datasets are available for partners and early testers.
+
+💰 Engagement Opportunities:
 
 Data LLM Retainer contracts. 
 
@@ -87,8 +98,7 @@ Contact Infomation:
 
 signal: https://signal.me/#eu/rYqQmxPpIyI_DH2SMUPdXkyRF1g3GDRE00gDwPm3C7OTzHLb-UpBZJaYPGZ-fHiu
 
-
-First contact get free 100 top lines of data as samples, this offer end at the end of the december 2025!! 
+Free scanner/ live demo 6 spaces left next week.  just contact me on my signal link.
 
 Terms & Conditions:
 
@@ -116,6 +126,6 @@ Contact: Signal interest via email or GitHub DM for full dataset samples or enga
 
 No personal data included.
 
-Only public, legally scannable infrastructure is analyzed, all hasded and salted. 
+Only public, legally scannable infrastructure is analyzed, all hashed and salted. 
 
 Data is provided hashed and redacted to comply with privacy and security regulations.
