@@ -33,8 +33,7 @@ We provide hashed & salted samples to show the quality of our data. Each sample 
 
 Shopify (Top 10) 
 
-700 more ready to download :  [
-](https://github.com/chrisochrisochriso-cmyk/paperknight-security-research/releases/tag/v1.1-intel-drop)
+700 more ready to download :  (https://github.com/chrisochrisochriso-cmyk/paperknight-security-research/releases/download/v1.1-intel-drop/shopify_hashed_random_700.jsonl)
 
 {"ts":"2025-12-02T13:19:37Z","type":"scan_result","domain":"ada8bfbd0863f7ba928636350e3cbc5b","takeover":true,"rce":false,"ssh_exposed":false,"confidence":1,"dns_time_ms":0,"http_time_ms":0,"https_time_ms":2271,"ssh_time_ms":0}
 {"ts":"2025-12-02T13:19:37Z","type":"scan_result","domain":"425b3098d0f93d14897ab056e98911f6","takeover":true,"rce":false,"ssh_exposed":false,"confidence":1,"dns_time_ms":0,"http_time_ms":1,"https_time_ms":2319,"ssh_time_ms":0}
