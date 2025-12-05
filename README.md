@@ -9,6 +9,8 @@ TIDS is an ultra-fast, non-disruptive domain scanner built for large-scale threa
 
 Speed & Scale: 11k domains scanned in ~86 seconds
 
+New mile stone 2,238 in 13 seconds pure c++ power @ 172.2 domains a second. 
+
 Binary Size: 140 KB compiled C++ (lightweight & portable)
 
 Low False Positives: <2%
